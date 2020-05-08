@@ -1,4 +1,4 @@
-# docker-ngixn-auth
+# docker-nginx-auth
 
 Spin up a nginx Docker container to simply authenticate a local service and expose ta port to internet
 
