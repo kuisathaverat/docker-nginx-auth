@@ -1,0 +1,5 @@
+auth/domain.crt
+auth/domain.ext
+auth/domain.key
+auth/domain_private.key
+auth/nginx.htpasswd
